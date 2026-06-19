@@ -4,7 +4,7 @@ Last Updated: June 2026
 
 ## Introduction
 
-Screen Lock Timer is A simple parental control app that helps parents manage and limit screen time by automatically locking the device when the timer expires.
+Screen Lock Timer is a simple parental control app that helps parents manage and limit screen time by automatically locking the device when the timer expires.
 
 Your privacy is important to us. This Privacy Policy explains how Screen Lock Timer handles user information and data.
 
