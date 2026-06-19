@@ -12,8 +12,6 @@ Your privacy is important to us. This Privacy Policy explains how Screen Lock Ti
 
 Screen Lock Timer is designed to work completely offline. The application does not require an internet connection to be used.
 
-All gameplay data, progress, and settings are stored locally on the user's device only.
-
 ## No Data Collection
 
 Screen Lock Timer does not collect, store, transmit, or share any personal information or user data.
@@ -47,7 +45,7 @@ This application does not integrate with:
 
 Screen Lock Timer does not display advertisements and does not use advertising networks.
 
-The application is designed to provide a clean, distraction-free educational experience for children and families.
+The application is designed to provide a clean for all user.
 
 ## No Account Required
 
